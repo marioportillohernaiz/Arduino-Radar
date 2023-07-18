@@ -16,4 +16,4 @@
 
 <h2>Object Found</h2>
 <p>Following image displays how an object has been detected (as shown in the "Arduino Set Up" section above).</p>
-<img style="width: 400px; height: auto" src="https://github.com/marioportillohernaiz/Arduino-Radar/assets/111706273/ade4bc37-d558-4493-9804-c96a83077b1f">
+<img style="width: 400px; height: auto" src="https://github.com/marioportillohernaiz/Arduino-Radar/assets/111706273/e2e9aad1-1120-4639-b083-0ce27f990691">
